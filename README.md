@@ -1,14 +1,10 @@
 # nimmt-clara
+A 6-nimmt rule described by clara-rules
 
-A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
-
-FIXME
+This is just a kind of demo, but you may use it for engine of digital implementation
 
 ## License
+MIT
 
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
